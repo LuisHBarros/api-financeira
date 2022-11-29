@@ -2,7 +2,7 @@ from flask import Flask
 from flask.views import MethodView
 import marshmallow
 from flask_smorest import Api, Blueprint, abort
-from resources.imposto_renda import blp as imposto_renda
+from resources.calculadora import blp as calculadoras
 from resources.acoes import blp as acoes
 from resources.moedas import blp as moedas
 
@@ -32,6 +32,6 @@ class Calculator(MethodView):
     
     
 api.register_blueprint(blp)
-api.register_blueprint(imposto_renda)
+api.register_blueprint(calculadoras)
 api.register_blueprint(acoes)
 api.register_blueprint(moedas)
