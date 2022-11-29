@@ -1,7 +1,7 @@
 services:
   web:
     build: .
-    command: flask run --host=0.0.0.0
+    command: gunicorn --bind 0.0.0.0:80 app:create_app()
     volumes:
       - .:/code
     ports:
