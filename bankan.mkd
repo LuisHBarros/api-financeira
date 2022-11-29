@@ -1,0 +1,1 @@
+#Rever formulas que calculam o imposto de renda (existe uma pequena diferença entre os resultados da API e da referencia)

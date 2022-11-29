@@ -1,0 +1,42 @@
+PESSOA FÍSICA
+
+Rendimentos tributaveis acima de R$28.559,70 no ano anterior
+Rendimentos isentos acima de 40.000,00 no ano anterior
+Posse ou propriedade de bens ou direitos acima de 300.000,00 no ano anterior
+Residente no Brasil no ano anterior
+Obteve ganho de capital na alienação de bens ou direitos à incidência do imposto, ou realizou operações em bolsas de valores, de mercadorias, de futuros e assemelhadas
+
+
+Calculo do imposto de renda retido na fonte
+
+Valor do salário bruto
+Valor da dedução de despesas
+Valor da dedução por dependentes
+INSS multiplicado pela Alíquota
+
+
+[(Salário bruto - dependentes - INSS(anual)) X aliquota] - dedução
+
+*É calculado de acrodo com os rendimentos totais e as despesas que podem ser deduzidas desse imposto
+
+
+
+	DEDUÇÃO
+
+Dependentes -> até 2.275,08 por pessoa
+Saúde -> valor total.
+Educação -> 3.561,50 por dependente (despesas com transporte, uniforme e material escolar não são dedutíveis. Também não entram cursos, como o de línguas)
+Pensão Alimentícia -> valor total
+Previdência privada -> até 12% da renda bruta anual (somente investimentos do tipo PGBL)
+Livro-caixa -> profissionais autônomos estão livre de despesas indispensáveis à realização do seu trabalho, 
+	como os gastos com o aluguel, contas de luz, àgua, telefone, entre outros
+Doações -> Sendo para fundos de assistência à criança, ao adolescente, ao idoso, com incentivo à cultura, ao audiovisual e ao desporto 
+	( sendo para fundos de órgãos munipais, estaduais e nacionais) valor total
+
+
+		INSS 
+
+Até R$1.212,00 = 7,5%
+de R$1.212,01 até R$2.427,35 = 9%
+de R$2.427,36 até R$3.641,03 = 12%
+de 3.641,03 até 7.087,22 = 14% -> TETO
