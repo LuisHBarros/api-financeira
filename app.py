@@ -2,7 +2,7 @@ from flask import Flask
 from flask.views import MethodView
 import marshmallow
 from flask_smorest import Api, Blueprint, abort
-from resources.calculadora import blp as calculadoras
+from resources.calculadoras import blp as calculadoras
 from resources.acoes import blp as acoes
 from resources.moedas import blp as moedas
 
