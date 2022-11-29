@@ -9,3 +9,6 @@ class IrSchema(Schema):
     previdencia = fields.Float(default=0, blank=True)
     doacoes = fields.Float(default=0, blank=True)
     livro_caixa = fields.Float(default=0, blank=True)
+    
+class InssSchema(Schema):
+    salario = fields.Float(required=True)
