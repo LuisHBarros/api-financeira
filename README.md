@@ -10,4 +10,4 @@ Já as calculadoras, são cálculos básicos feitos por meio de dados informados
 
 O projeto conta com um docker-compose básico, apenas para rodar o python e executar o comando 'flask run'
 
-Link para a API : http://15.228.99.155:5000/swagger-ui
+Link para a API : http://15.228.237.165:5000/swagger-ui
